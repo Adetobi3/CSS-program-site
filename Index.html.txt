@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Comprehensive Social Security Program - HHS</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header, footer {
+      background: #004080;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 30px;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+    }
+    h1, h2 {
+      color: #004080;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 12px;
+      text-align: left;
+    }
+    th {
+      background-color: #f0f0f0;
+    }
+    .highlight {
+      background-color: #e6f2ff;
+      padding: 15px;
+      border-left: 5px solid #004080;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>U.S. Department of Health & Human Services (HHS)</h1>
+  <p>Comprehensive Social Security Program (C.S.S.) - 2025</p>
+</header>
+
+<main>
+
+  <section>
+    <h2>Welcome Message</h2>
+    <p>
+      I am <strong>Director Sandra L. Wertheimer</strong>, Administration Officer in the Department of Disbursement & General Operations, HHS. I am overseeing the 2025 roll-out of the Comprehensive Social Security Program (C.S.S.).
+    </p>
+    <p>
+      As the nation’s leading development agency, HHS promotes national security and economic well-being through financial assistance, healthcare support, and technical services to individuals, families, and communities.
+    </p>
+  </section>
+
+  <section>
+    <h2>Step 1: Registration</h2>
+    <p>Please submit the following to begin your application:</p>
+    <ul>
+      <li>Full Name</li>
+      <li>Residential Address</li>
+      <li>Reference Contact Name</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Application Acknowledgment</h2>
+    <div class="highlight">
+      <p><strong>Profile ID:</strong> HHS-21519-2024</p>
+      <p><strong>File Reference Number:</strong> ESF/5564/06/07S</p>
+    </div>
+    <p>Please confirm whether you are applying as an individual or representing an organization.</p>
+  </section>
+
+  <section>
+    <h2>Eligibility Criteria</h2>
+    <p>To assess your eligibility, please provide the following information via SMS or secure form:</p>
+    <ul>
+      <li>Full Name</li>
+      <li>Mother’s Maiden Name</li>
+      <li>Home Address</li>
+      <li>Date of Birth & Age</li>
+      <li>Gender</li>
+      <li>Marital Status</li>
+      <li>Phone Number</li>
+      <li>Employment Status & Occupation</li>
+      <li>Email Address</li>
+      <li>Monthly Income</li>
+    </ul>
+    <p>Your data is encrypted and stored securely.</p>
+  </section>
+
+  <section>
+    <h2>Security Notice</h2>
+    <p>
+      Do not disclose your personal information to unauthorized third parties, including financial institutions. Unauthorized disclosure may lead to fraudulent claims. HHS is not responsible for any such breaches. 
+    </p>
+    <p>Please confirm that you understand and will comply with our confidentiality protocol.</p>
+  </section>
+
+  <section>
+    <h2>Approval Notification</h2>
+    <div class="highlight">
+      <p><strong>PUC (Personal Unlocking Code):</strong> M3A28M5K91</p>
+      <p><strong>Eligibility Status:</strong> Accepted</p>
+      <p><strong>Funding Class:</strong> Standard</p>
+      <p><strong>Funding Status:</strong> Processing</p>
+      <p><strong>Confirmation Number:</strong> 283070001GRD4</p>
+    </div>
+    <p>Keep your PUC confidential. It will be required for all portfolio updates and identity verification.</p>
+  </section>
+
+  <section>
+    <h2>Funding Options & Processing Fees</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Funding Amount</th>
+          <th>Processing Fee</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>$100,000.00</td><td>$2,000.00</td></tr>
+        <tr><td>$150,000.00</td><td>$3,000.00</td></tr>
+        <tr><td>$250,000.00</td><td>$5,000.00</td></tr>
+        <tr><td>$345,000.00</td><td>$6,900.00</td></tr>
+        <tr><td>$500,000.00</td><td>$10,000.00</td></tr>
+        <tr><td>$750,000.00</td><td>$15,000.00</td></tr>
+        <tr><td>$1,000,000.00</td><td>$20,000.00</td></tr>
+      </tbody>
+    </table>
+    <p>
+      Fees are compliant with the National Treasury Act and Senate Special Committee Policy Act. Please choose your funding option to proceed.
+    </p>
+  </section>
+
+  <section>
+    <h2>Next Steps</h2>
+    <p>
+      Your assigned Profile ID <strong>HHS-21519-2024</strong> will be used throughout your application. Once your selection is made, the administrative department will forward your file for final processing and delivery.
+    </p>
+  </section>
+
+</main>
+
+<footer>
+  <p>© 2025 U.S. Department of Health and Human Services. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
